@@ -1,0 +1,12 @@
+[project]
+name = "visual-understanding"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio-client>=1.8.0",
+    "pandas>=2.2.3",
+    "pydantic>=2.10.6",
+    "tqdm>=4.67.1",
+]
