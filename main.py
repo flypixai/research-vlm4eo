@@ -19,9 +19,12 @@ INSTRUCTIONS = [
 def main():
     input_images = sorted(list(Path(INPUT_FOLDER).glob("*")))
 
+    output_path = Path(OUTPUT_FOLDER) 
+    output_path.mkdir(exist_ok=True)
+
     for model in MODELS:
         print(f"--- Running {model.__class__.__name__} ---")
-        save_path = Path(OUTPUT_FOLDER) / model.__class__.__name__
+        save_path = output_path / model.__class__.__name__
         save_path.mkdir(exist_ok=True)
 
         for image_path in tqdm(input_images, desc="Images"):
