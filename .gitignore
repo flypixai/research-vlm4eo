@@ -1,8 +1,10 @@
 __pycache__/
 
-images/
-results/
+.idea/
 
 .env
-
+images/
+results/
 *.csv
+
+
