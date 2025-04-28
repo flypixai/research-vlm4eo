@@ -6,7 +6,7 @@ from pydantic import BaseModel
 
 
 class IOPair(BaseModel):
-    instruction: str
+    task: str
     output: str
 
 

@@ -21,7 +21,7 @@ def process_results_directory(results_dir: Path) -> pd.DataFrame:
                 entries.append(
                     {
                         "file": file.name,
-                        "task": io_pair.instruction,
+                        "task": io_pair.task,
                         "model": result.model,
                         "output": io_pair.output,
                     }

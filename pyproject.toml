@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "gradio-client>=1.8.0",
-    "pandas>=2.2.3",
+    "nltk>=3.9.1",
+    "polars>=1.28.1",
     "pydantic>=2.10.6",
+    "pyyaml>=6.0.2",
     "tqdm>=4.67.1",
 ]

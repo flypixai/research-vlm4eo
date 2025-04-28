@@ -1,0 +1,8 @@
+input_folder: "images/"
+output_folder: "results"
+models: [ "Gemma3", "JanusPro7B", "Phi4" ]
+tasks: [
+  "Describe the image",
+  "List all object classes (one word). Use comma to separate the classes. Only output. No extra text.",
+  "List all landzones/areas (one word). Use comma to separate the landzones/areas. Only output. No extra text.",
+]
