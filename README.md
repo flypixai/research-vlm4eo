@@ -4,11 +4,16 @@ A research activity to evaluate the visual understanding of VLMs for Earth Obser
 
 ![crops](images/11.png)
 
-# Requirements
+# Results
 
-You need to have `uv` installed.
+All model outputs, human labels, metrics and plots are available under [results/](results). 
+Images are under [images/](images).
 
 # How to run
+
+## Requirements
+
+You need to have `uv` installed.
 
 ## Inference
 
