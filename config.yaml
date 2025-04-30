@@ -1,8 +1,13 @@
 input_folder: "images/"
 output_folder: "results"
-models: [ "Gemma3", "JanusPro7B", "Phi4" ]
+models: [ "Gemma3", "JanusPro7B", "Phi4", "Qwen2_5_7B", "SmolVLM" ]
 tasks: [
   "Describe the image",
-  "List all object classes (one word). Use comma to separate the classes. Only output. No extra text.",
-  "List all landzones/areas (one word). Use comma to separate the landzones/areas. Only output. No extra text.",
+  "List all object classes (one/two words for each class). Use comma to separate the classes. Only output. No extra text.",
+  "List all landzones/areas (one/two words for each class). Use comma to separate the landzones/areas. Only output. No extra text.",
 ]
+evaluation_map:
+  0: [ "Meteor", "BERTScore" ]
+  1: [ "Precision", "Recall", "F1" ]
+  2: [ "Precision", "Recall", "F1" ]
+

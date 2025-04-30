@@ -1,0 +1,1 @@
+buildings, roads, vehicles, water, vegetation, airports, parks, commercial, residential, industrial, military

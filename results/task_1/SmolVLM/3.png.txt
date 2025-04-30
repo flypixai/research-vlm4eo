@@ -1,0 +1,1 @@
+car, boat, building, house, tree, water, road, parking lot, sky

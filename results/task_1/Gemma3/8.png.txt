@@ -1,0 +1,1 @@
+building, road, tree, car, fence, grass, field, house, shed

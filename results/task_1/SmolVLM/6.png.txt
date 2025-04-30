@@ -1,0 +1,1 @@
+road, trees, grass, house, pond

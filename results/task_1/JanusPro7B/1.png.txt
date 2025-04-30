@@ -1,0 +1,1 @@
+airports, boats, buildings, cars, parks, roads, storage tanks

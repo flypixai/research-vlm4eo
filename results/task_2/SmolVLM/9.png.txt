@@ -1,0 +1,1 @@
+forest, water, farmland, road

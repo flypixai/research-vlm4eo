@@ -1,0 +1,1 @@
+house,tree,road,field,building,vegetation

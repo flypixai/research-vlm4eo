@@ -1,0 +1,1 @@
+List all landzones/areas (one/two words for each class). Use comma to separate the landzones/areas. Only output. No extra text.

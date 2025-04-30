@@ -3,9 +3,5 @@ __pycache__/
 .idea/
 
 .env
-images/
-results/
-human/
-*.csv
 
 

@@ -1,0 +1,1 @@
+building, car, tree, road, parking lot, truck, warehouse, fence, garage, bus stop

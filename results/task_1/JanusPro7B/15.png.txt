@@ -1,0 +1,1 @@
+bridge,water,boat,road,building,dock,ship,truck,car,house,tree,sky

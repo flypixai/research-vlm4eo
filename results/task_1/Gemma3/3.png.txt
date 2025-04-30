@@ -1,0 +1,1 @@
+beach,boat,road,parking,building,vegetation

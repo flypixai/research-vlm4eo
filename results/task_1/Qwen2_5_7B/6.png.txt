@@ -1,0 +1,1 @@
+fields, trees, roads, vehicles, construction, water, buildings

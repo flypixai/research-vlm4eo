@@ -1,0 +1,1 @@
+forest, field, road, wetland

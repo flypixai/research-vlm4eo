@@ -1,0 +1,1 @@
+port, ship, terminal, storage, road, parking, warehouse, shipyard, water, land

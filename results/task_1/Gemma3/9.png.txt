@@ -1,0 +1,1 @@
+water, forest, field, river, lake, building, road, grass

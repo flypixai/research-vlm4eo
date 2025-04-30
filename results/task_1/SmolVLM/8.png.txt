@@ -1,0 +1,1 @@
+ house, road, car, tree, building, road

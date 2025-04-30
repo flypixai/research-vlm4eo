@@ -1,0 +1,1 @@
+ tank, ship, car, truck, building, road, grass, water, train, train track

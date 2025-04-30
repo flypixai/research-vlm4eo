@@ -1,0 +1,1 @@
+residential, vegetation, roads, fields

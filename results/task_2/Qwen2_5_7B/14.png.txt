@@ -1,0 +1,1 @@
+urban, rural, agricultural, residential, open space

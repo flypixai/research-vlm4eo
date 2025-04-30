@@ -1,0 +1,1 @@
+building, road, tree, field, car, parking, house, garage, parking lot, parking spot, parking area

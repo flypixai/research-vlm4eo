@@ -1,0 +1,1 @@
+ apartment, building, car, tree, road, street, building, parking

@@ -1,0 +1,1 @@
+warehouse, parking lot, road, building, tree, parking space, rooftop, sidewalk, street, vehicle, fence, open space

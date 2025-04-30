@@ -1,0 +1,1 @@
+land,water,vegetation,building,road,air,terrain

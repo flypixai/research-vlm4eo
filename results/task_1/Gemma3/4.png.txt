@@ -1,0 +1,1 @@
+building, road, car, tree, sidewalk, parking, fence, sign, lot

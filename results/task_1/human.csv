@@ -1,0 +1,16 @@
+image;prageetha;jyothi
+1.png;ship,container,reservoir,truck;ship,container,reservoir,parking lot,truck,helipad,car,building,tree,pipe
+2.png;house ,vehicle,tree;building,vehicle,swiming pool,tree
+3.png;boat ,parking area ,vehicle,building;ship,parking lot,car,building
+4.png;parking area ,vehicle,building, tree;car,building,tree,road marking, parking lot
+5.png;tree;building
+6.png;farms, home, forest;trees, building
+7.png;building,swiming pool;building,vehicle,swiming pool,tree
+8.png;building,vehicle;building,vehicle, tree
+9.png;building, tree;tree, building
+10.png;vehicle, tree, building;building,vehicle, tree
+11.png;;
+12.png;building;tree, building
+13.png;building;building,vehicle, parking lot
+14.png;building, tree;building, tree
+15.png;ship, parking lot, car, building;ship, reservoir, parking lot, car, building

@@ -1,0 +1,1 @@
+building,road,tree,field,parking,sidewalk,tennis,house

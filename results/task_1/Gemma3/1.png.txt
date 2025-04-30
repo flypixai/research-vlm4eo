@@ -1,0 +1,1 @@
+ship, train, truck, tank, building, road, parking

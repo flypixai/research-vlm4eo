@@ -1,0 +1,1 @@
+trees, road, field, forest

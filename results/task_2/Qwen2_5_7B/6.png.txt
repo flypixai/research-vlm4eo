@@ -1,0 +1,1 @@
+agricultural, forest, road, construction, open, farmland, trees, fields

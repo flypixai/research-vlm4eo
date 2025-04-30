@@ -1,0 +1,1 @@
+apartments, commercial, driveway, garage, green, pool, residential, road, store, trees, utility

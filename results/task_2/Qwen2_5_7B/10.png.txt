@@ -1,0 +1,1 @@
+industrial, commercial, residential, green, sports, parking, urban, mixed-use

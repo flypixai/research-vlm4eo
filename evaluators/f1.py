@@ -1,11 +1,11 @@
-from utils import split_classes
+from utils import preprocess_classes
 from .base import BaseEvaluator
 
 
 class F1Evaluator(BaseEvaluator):
     def evaluate(self, ground_truth: str, prediction: str) -> float:
-        gt = split_classes(ground_truth)
-        pred = split_classes(prediction)
+        gt = preprocess_classes(ground_truth)
+        pred = preprocess_classes(prediction)
         if not gt or not pred:
             return 0.0
         correct = gt & pred

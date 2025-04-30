@@ -1,0 +1,1 @@
+lakes, fields, forests, roads, buildings
