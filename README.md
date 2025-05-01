@@ -1,21 +1,30 @@
-# VLMs for Earth Observation
+# <div align="center">VLMs for Earth Observation</div>
 
-A research activity to evaluate the visual understanding of VLMs for Earth Observation imagery.
+<div align="center">
 
-![crops](images/11.png)
+   <a href="poster/20250505-VLM4EO.png">
+     <img src="poster/20250505-VLM4EO.png" alt="Poster: Evaluating Foundational Models for EO" width="600"/>
+   </a>
 
-# Results
+*Presented at ESA-NASA International Workshop on AI Foundation Model for EO | 5-7 May 2025 | ESA-ESRIN | Frascati,
+Italy*
 
-All model outputs, human labels, metrics and plots are available under [results/](results). 
+</div>
+
+## Results
+
+All model outputs, human labels, metrics and plots are available under [results/](results).
 Images are under [images/](images).
 
-# How to run
+---
 
-## Requirements
+## How to run
+
+### Requirements
 
 You need to have `uv` installed.
 
-## Inference
+### Inference
 
 1. We use HuggingFace API for inference, set your huggingface token:
 
@@ -42,7 +51,7 @@ uv run main.py assemble
 
 This will produce a `results.csv` file.
 
-## Evaluation
+### Evaluation
 
 1. Run:
 
